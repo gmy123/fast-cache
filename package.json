@@ -1,0 +1,22 @@
+{
+  "name": "fast-cahe",
+  "version": "0.0.1",
+  "description": "短小精悍的前端缓存工具 防止内存泄漏",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmy123/fast-cache.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "https://github.com/gmy123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmy123/fast-cache/issues"
+  },
+  "homepage": "https://github.com/gmy123/fast-cache#readme"
+}
