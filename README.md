@@ -6,3 +6,4 @@
 
 -[使用文档](./doc/use/README.md)
 -[二次开发文档](./doc/dev/README.md)
+下载地址 https://github.com/gmy123/fast-cache/releases/tag/v0.0.2
